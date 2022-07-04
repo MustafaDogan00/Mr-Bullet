@@ -1,0 +1,5348 @@
+fileFormatVersion: 2
+guid: 962d60aae1db31e4186c4b2f6a3702d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteArrows_0
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4258
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0811334e42d9205458ddb175ba30898e
+      internalID: 121694902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_1
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 4153
+        width: 197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23f244937e09f4b800218e4d34fecf
+      internalID: -1610091255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_2
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 3876
+        width: 421
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a6b32c7138f6f49a6f29745a8268d4
+      internalID: -1607222076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_3
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 4034
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79676878d5571974a89c54763381aa57
+      internalID: -2016118313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3850
+        width: 342
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09e30bb1e22e840a3430cf07ab08b1
+      internalID: -70762185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 4219
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fda4ca6a1c876469ea2392938ae312
+      internalID: 190265201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_6
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4243
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3081653262fcf9a4d805e9100c360754
+      internalID: -1167021504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_7
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3837
+        width: 327
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00319bd726cc3b47b9fba6090a411eb
+      internalID: 1598914667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_8
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 4072
+        width: 118
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e857e7b63ec7148aa34fc6db996997
+      internalID: 187885643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_9
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 4056
+        width: 230
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b21f953e1b01943aca4ded432ac789
+      internalID: 903195864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_10
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 4232
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df191c04b2d9f5d4facfd9ffc8c9ed86
+      internalID: 973954093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_11
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 4074
+        width: 250
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc620961eac95f4daf58dc0944babcc
+      internalID: -2041790658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_12
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4034
+        width: 171
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703122ff6210b68478fd0b43c6a7c005
+      internalID: 1777252650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3902
+        width: 119
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e7a88353cbd544bff242ca337428a
+      internalID: 1377749387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_14
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 4140
+        width: 160
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6289b72f707448ae1e5a123dbf081
+      internalID: -2021419412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_15
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3902
+        width: 133
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c4dd7f34bf88849b6dacb4c396f16f
+      internalID: 693933235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_16
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 3863
+        width: 276
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab23764cd43ae4ca73966d4ef8dd46
+      internalID: -25371060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_17
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 4140
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649c5c3f98ff2846aacb1d4e6f89c19
+      internalID: -305260865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3968
+        width: 147
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a9cd878bfb374ebc40f0c27586fda
+      internalID: 1904561125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_19
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 3810
+        width: 132
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4bc425d3178f342ae401935e4081e1
+      internalID: 412025682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_20
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 3886
+        width: 253
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a38c03229eb8654f9638fa309f3aa71
+      internalID: -1306587589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_21
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 4140
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0a1926b89a384ab7fda7513ffb5d3
+      internalID: 707682136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_22
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 3863
+        width: 232
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a08b368a4dab41a38949baaefb424
+      internalID: 352308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_23
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 4103
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024dfc28b0955d24395bfeba0dda2446
+      internalID: 299269724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_24
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 4127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920e6541a08a7c4181bb590338344ca
+      internalID: 219968828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_25
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 4127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6feeed206ac0348a938b1346a9b11f
+      internalID: 2005097062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3902
+        width: 132
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec11b9449dfc784e86694a765566092
+      internalID: 1660716759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_27
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3863
+        width: 263
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce45851f8e4123c499a6a29d6a33eec1
+      internalID: 1205233375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_28
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 3885
+        width: 224
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80798874d8c5da499cf7fe9c2266097
+      internalID: -1138578974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_29
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3966
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f7deab81e1bfb41947aca4dc7c97ff
+      internalID: 600956036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_30
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 3855
+        width: 152
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70aad12a64eebd438a68e236e22a04f
+      internalID: 1238739445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_31
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 4034
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d8303008207745a8a5eacb614d583
+      internalID: -469814440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_32
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 4061
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9ff347f9d6714d9610fc71ab9c516
+      internalID: 791997532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_33
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 4047
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee3f666617dd847974866c6613e46a
+      internalID: -343842343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_34
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 3955
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ea2886dffa4424782f890a67959012
+      internalID: 617598333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_35
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 4047
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a64de9281dcfe47945d66e598f2da8
+      internalID: -482862841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_36
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 3823
+        width: 343
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be2302f77d54641a6a1c16b212e58f
+      internalID: 782418334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_37
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 3837
+        width: 132
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c71f39fc103e7e4bb172ecb357d21bb
+      internalID: 1462107362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_38
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 4034
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f1bec29bf04b4983a7d8caec74178
+      internalID: 94940629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_39
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3863
+        width: 145
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe87d7522f7267442acf7c7bdd65013e
+      internalID: 1295451502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_40
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3916
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87333d3ba78f5428496010eb7b3b0a
+      internalID: 154247284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_41
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 3823
+        width: 157
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410d6fdae726ee145aa10cb3fdf000f7
+      internalID: 862484980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_42
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 3837
+        width: 198
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b63bc70f887384895b030591ff1a7a
+      internalID: 1029933453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_43
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 3850
+        width: 197
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7169a37ff7cde8b41a097f42cf093fcd
+      internalID: 1198926173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_44
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3483
+        width: 237
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fb2cc2341f6f644adcb327eefa675e
+      internalID: 1262719339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_45
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 3243
+        width: 303
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820b9850ec312a4e9a24670d2866408
+      internalID: -473327892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_46
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3296
+        width: 316
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03dd4175519e74da7fd72a5f33b33e
+      internalID: 1725689084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_47
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3217
+        width: 434
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42f4b61ab484854b8e1a6fca6550af3
+      internalID: 749677185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_48
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 3243
+        width: 276
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e955424e614d4282304fcece803e0
+      internalID: 1665106984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_49
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 3270
+        width: 158
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0935c6729fad458f4636f4054bfc3
+      internalID: 1997796686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_50
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 3599
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cfbf62598a29b4ebbb981527e2c60c
+      internalID: -1729826926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_51
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 3230
+        width: 329
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf234c515e7184488b06205d3d1aeb
+      internalID: 1109303317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_52
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 3454
+        width: 343
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0687734dd3b5498c13dce7e43d010
+      internalID: 929120476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_53
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 3494
+        width: 277
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a85c22584a8346b63d0e9c5c89439
+      internalID: 1298687669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_54
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 3586
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9c350e20bc0b4d9291227374147d6
+      internalID: 1742754551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3305
+        width: 264
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5d0c6a39888e4c9cb354ac674e9aa
+      internalID: 163540157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_56
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 3328
+        width: 387
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c6e740300b2c42bedeba98f87fafe
+      internalID: -1297051298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_57
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3441
+        width: 57
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c428ef9c3ae748bc2bbf44a135c97
+      internalID: -1702174031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_58
+      rect:
+        serializedVersion: 2
+        x: 4034
+        y: 3191
+        width: 264
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e550265fc3cd4592f218e4a5bdcab
+      internalID: -894776635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_59
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 3555
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb522117e5d0c445a66ef54628c12c6
+      internalID: 1265445884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3481
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73151c6a573d32845b37205e158e94e4
+      internalID: 281354662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_61
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3270
+        width: 276
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a456dcac93c304418bba929ca246d57
+      internalID: 325558149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_62
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 3481
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3712108c2ea87684e8297d07d62153ad
+      internalID: -546164002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_63
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 3296
+        width: 290
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba537603d8018184a95cdb2c631ce754
+      internalID: -1787416298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_64
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 3349
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf37d567bdad994f987a9c95184e08f
+      internalID: 846574729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_65
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 3226
+        width: 284
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9938c32946ccb74abde952adfa60888
+      internalID: -1795060328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_66
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3401
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4d4ada9a01d0943b8ddd08266ce84b
+      internalID: 710874962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_67
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3428
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aafcf0dbb9b02a4ca2013507796e8b0
+      internalID: 600840328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_68
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 3401
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc158bc63f150a408add94b7af4d879
+      internalID: -1166951102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_69
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 3322
+        width: 131
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7032c5d704f59924f99fa8407b92e464
+      internalID: 883512695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_70
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3230
+        width: 185
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052e4b1d6dfc7849801a722bca8472d
+      internalID: 102557397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_71
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 3388
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85641b32f7265aa42b0a033b6baddc1a
+      internalID: 1997161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_72
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 3336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a715cee8c4bb724e862a8012667649e
+      internalID: -1859680872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_73
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 3309
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5fda15b9544144a465b02a677bb45
+      internalID: 1654773413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_74
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 3283
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526a85c9de4e4e40b018ae8ce730b7f
+      internalID: -411196804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_75
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 3270
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df72ba6ac7d05341b83d6e7ca66528f
+      internalID: 1730098618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_76
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 3256
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79951d3ec80d645ae2f15d64efe8a8
+      internalID: -1722901633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_77
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 3204
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa3ef02c5ab6344883defe6290e8074
+      internalID: -947429541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2703
+        width: 368
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65382a6b45b01c346a927795dd9eda35
+      internalID: -1323591927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_79
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2808
+        width: 329
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2df89af9fa1949b72a760d220c062
+      internalID: -2112717231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_80
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2662
+        width: 256
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100f700c3d63124fa324985c06a52f2
+      internalID: -497578827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_81
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2650
+        width: 395
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2b34a5bbbb99439e5510cab7d86e3
+      internalID: 1102968896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_82
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 2624
+        width: 318
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118478cb374006f4a88004007245ced2
+      internalID: 474929675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_83
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 3006
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cfe7f5de4d76648aa44c6dc5526743
+      internalID: 1312563022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_84
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2676
+        width: 448
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e74a047f50564a9c4ea4dfe57e55b
+      internalID: -1511351446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_85
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2940
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a177484525cbb469a145ce9761e857
+      internalID: 1178736485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_86
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2716
+        width: 383
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594d863addae1e49ad527dfbb61263f
+      internalID: -211343949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_87
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 2993
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444db2ee9aa939449af59df92570f1f2
+      internalID: -787777150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_88
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 2709
+        width: 418
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5172e720e2c0042b5162b0022b7566
+      internalID: -880513805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_89
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2953
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1491ba5fcda384dbabbfd4321f8399
+      internalID: -376625760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_90
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 2980
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8677d0614ba706640bfc27c3ac56ff03
+      internalID: -644740474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_91
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2925
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a071753c11bf343899699f5880bc76
+      internalID: 429494266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_92
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2936
+        width: 145
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcf3a8f5ab50a4cba69190facd6c57
+      internalID: -456735884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_93
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2940
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab98d96008de644973c4afb7f25a9f
+      internalID: -45264416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_94
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2755
+        width: 118
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6adb572bbbcbdf4a8523d298acbc3c8
+      internalID: -2050104241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_95
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2953
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86adedcee3aaccc4dbb26822ab7f2f52
+      internalID: 888635485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_96
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2755
+        width: 145
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11cf207b05f29c428cee55c8014e3c6
+      internalID: -1321179104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_97
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2940
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d6303d36c5244bb4989b05ea788eb
+      internalID: 2091990837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_98
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2835
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090420e4350be204bbe47ce33214c2b8
+      internalID: 1880850767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_99
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 2914
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb2921d80727b4fa276103ea93d997
+      internalID: -1014372678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_100
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2755
+        width: 171
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3bf1975e37f1349a179193cf1617b6
+      internalID: 511002140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_101
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 2624
+        width: 237
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c54675608d2e4abbae7c33b7049e1
+      internalID: -1001504979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_102
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2781
+        width: 283
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b508321c9853f4ba8facdf980df028
+      internalID: 2031245769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_103
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2782
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700bc57daa0578c4380e3c85a1296a9a
+      internalID: -316591684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_104
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 2664
+        width: 291
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6174b84eea2a44aefd79afe5c0618
+      internalID: 503970902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_105
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 2755
+        width: 28
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5191a17beb2d1d41b04c627700157b9
+      internalID: -16742141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_106
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2716
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61291ee4697329b47a4be4e5ca09213a
+      internalID: -281244881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_107
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 2676
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb8494eff93054e8125fdcde8a49b6
+      internalID: 177970984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_108
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2650
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60e3704dbba4146aa9fcbf15fa558f
+      internalID: 601440382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_109
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2252
+        width: 409
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ffdb3a53e8da459697e60809c8275
+      internalID: 1841519434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_110
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2082
+        width: 330
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeaac7f806e69545b794baf0a0e1f15
+      internalID: -925776901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_111
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2044
+        width: 396
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cd65a2df541d44aa3db63ee892fae
+      internalID: -2084374017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_112
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2105
+        width: 301
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb71afaabb6009458713b55723f03f2
+      internalID: 1540903511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_113
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2398
+        width: 119
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b0b0365c36b184ab18a794dc67783c
+      internalID: -468787645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_114
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2398
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b92868eed20349965dae20cba73a9
+      internalID: 554255547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_115
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2096
+        width: 303
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa7f875d05b3b048bac472465232ed1
+      internalID: 986477257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_116
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2089
+        width: 374
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29075a3ce0b3fb448bbbfe5ed8354282
+      internalID: 1349732913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_117
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2202
+        width: 319
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d76fca6460f1547a21b6eec7e2d79a
+      internalID: 1536122147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_118
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2411
+        width: 145
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4729f40fcd3ad4049a999f7b68e4fa95
+      internalID: 1551244987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_119
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2288
+        width: 316
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad3b0401d2d3246a46a78d9152aef1
+      internalID: 1071921303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_120
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 2092
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75ff19ef3e632409860dfe2838fdd8
+      internalID: -1961681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_121
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 2226
+        width: 250
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f762a670eae9a434d8ff34e0e06266fc
+      internalID: -1775630294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_122
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2215
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eeea869fe9d934db132fe407ee7180
+      internalID: -500191733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_123
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2070
+        width: 276
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d201456925e864dae6dadb46ef55fb
+      internalID: -616659440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_124
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 2255
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0c0ab8fba6af547a89ce46b694f048
+      internalID: -792519559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_125
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 2057
+        width: 237
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb964e8464281046b4499db105d4700
+      internalID: -1680674224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_126
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 2268
+        width: 171
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972e6088fc636a4893dfda0de9dca45
+      internalID: -1574683140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_127
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 2109
+        width: 369
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7af80d80ec3c84baf24860032f7695
+      internalID: 1142435931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_128
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2189
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33bfe58b34837b4d84e107973fb59a7
+      internalID: 1547673401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_129
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2044
+        width: 382
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97271920ff473f42bb6f0f260839953
+      internalID: 365702711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_130
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2241
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756231746a926f42a030231a897ef54
+      internalID: 779580316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_131
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2057
+        width: 131
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e902574f2c881b48b23ebd193950596
+      internalID: 1352762950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_132
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 2083
+        width: 435
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713ffccaa3fe22f41ad85dd48678068b
+      internalID: -2076308700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_133
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1674
+        width: 221
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa114ec6a6e7bd4a9eb24d5a18ca73f
+      internalID: 976443153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_134
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1925
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2667b17775c244b96af232f2c813a3
+      internalID: -1605341190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_135
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1885
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af84afe1b21e8744b62ebbd646b59d9
+      internalID: -542424700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_136
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1896
+        width: 158
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e09b3ca86096b4caef526905898b5a
+      internalID: 1496535163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_137
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1529
+        width: 126
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd1b4906674a746bc5cc44165df5b8
+      internalID: 280382571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_138
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 1450
+        width: 303
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da6a3b3d275e64db17795278a390f7
+      internalID: 2051562116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_139
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1477
+        width: 422
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18981c930b32ca469bc9f4e183fe423
+      internalID: -84356337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_140
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1754
+        width: 184
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a3d0f4334a2e34faa25fb4546ef867
+      internalID: 1344017536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_141
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1610
+        width: 295
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ae1cde88374f428aa6c20d89c3521
+      internalID: -1439908094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_142
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1490
+        width: 606
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ca2353a0923247871b6e7692bbc2a
+      internalID: 2110173073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_143
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1657
+        width: 145
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346217214960c32479cb3245be834747
+      internalID: -1923268053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_144
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1899
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3aba3db46216e4f96cd2692cddc559
+      internalID: 1052980580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_145
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 1870
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c3fbf7c03ec24594f24ba8b33e574
+      internalID: 1408821272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_146
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 1829
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f79edce7fd7cd240adacefb03e09537
+      internalID: -316654554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_147
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1464
+        width: 395
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b93f49b89eedf46b0f2a7621f59f37
+      internalID: -1994154590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_148
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1872
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e7170ce9fcb44793cfda950f13ad7
+      internalID: -1712036915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_149
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1833
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761b82b4444ebb54bba1192751146ad1
+      internalID: -589899203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_150
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1846
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4b12fe1dfcc8428ee2f9580a1f5c1
+      internalID: -1071843096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_151
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1450
+        width: 474
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77cd7f8b6089ea428d5d261385e6da7
+      internalID: 224854444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_152
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1612
+        width: 202
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395022038f17d344b53920af81329ee
+      internalID: -1910632378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_153
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1529
+        width: 136
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff63cb617f8f2ac4dbb26f45c691baf6
+      internalID: -73458023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_154
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1740
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4557058aad5a44a3b7b8ce4ef55cc
+      internalID: -1560610258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_155
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1529
+        width: 123
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc6b2cd5d14a3848860cce3cf0889c7
+      internalID: 2099434656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_156
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1490
+        width: 144
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb2503ef2b68e4b88d1d8c91721010
+      internalID: 1487144121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_157
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1611
+        width: 48
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da3542c453b7eb4186d40f22861d91b
+      internalID: -354956379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_158
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 1503
+        width: 236
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719cc49144e8853488fb0feec5b367b2
+      internalID: -2072289549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_159
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1661
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f78eed0af2aa408f06aaf9914e69d
+      internalID: -814285434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_160
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 1674
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c321d3ac35c3f94cad10e2428482f98
+      internalID: 1691345418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_161
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1635
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301274705e5c7c0458d4d3669754e448
+      internalID: -2043481686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_162
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 1490
+        width: 184
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58b783457002c49ab946c77ca11bc1
+      internalID: 1830729388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_163
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1490
+        width: 167
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1c0328580df34d858e08c3e67f0e8
+      internalID: -918651590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_164
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 1558
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb180529826f9448bce4a0db41cadf7
+      internalID: -1743337804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_165
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1529
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c46213bf911994e886ae3c368ee0f4
+      internalID: 257297350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_166
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1490
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c66be6d234d894fb9655b20b3ed0b6
+      internalID: 386662823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_167
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 917
+        width: 376
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961fc816151a938469023eb0cd03c9bb
+      internalID: -1578586522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_168
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1290
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1a4b6be79a8a478eae331c3062044
+      internalID: 1210041561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_169
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1279
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba67d8173596ff409d190c5e84277e2
+      internalID: 457051260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_170
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 876
+        width: 321
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8c648c4ef0e84b9b641b7edaab5f2
+      internalID: -1314942574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_171
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1015
+        width: 132
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9d871713c8c04fa128453ff0fd71a
+      internalID: 541562861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_172
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1015
+        width: 92
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90863841f1d8fbb4a9b20cebc6b0bc4f
+      internalID: -1784945548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_173
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1213
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee32e38a677e2499053c7915377456
+      internalID: 1716214988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_174
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1270
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeaed3e8e6ade64089fc05f56ab18c4
+      internalID: 693245800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_175
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 883
+        width: 200
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d29a2d20d49b40b6abd8cf54274d1
+      internalID: -362629417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_176
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1160
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53596b6f362184e917a16fb781ba83
+      internalID: 1035004775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_177
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 923
+        width: 382
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668df8250dda76e4f998a6da378a0dfb
+      internalID: 1741447382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_178
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1250
+        width: 105
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd674f7c660a23c498a349ddcafed511
+      internalID: 1468991806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_179
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1226
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30921e8207e6de840b504a69ff88f4fc
+      internalID: -450296736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_180
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1253
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682fc7ea23ab5ac4db2d5ecaa1df6050
+      internalID: -1439973593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_181
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 949
+        width: 388
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac84ab815ed5b46a779a4f87873483
+      internalID: 1605311010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_182
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1119
+        width: 279
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2fd4737aa31044b2e9a2eeb958425
+      internalID: -1438417154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_183
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 923
+        width: 337
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082eff7c48c9794fa3f0ce8166290f8
+      internalID: -1469426990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_184
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 897
+        width: 201
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e8747550c36b4bb3a86796ece7124
+      internalID: -1874341093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_185
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 920
+        width: 176
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7dcf99e045f594083892262a3a5a5f
+      internalID: -711458806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_186
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 963
+        width: 409
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502af0e9ababeef4ea198bdf0f85611a
+      internalID: -639185235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_187
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1207
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd093c91b56540479f934506ce366f6
+      internalID: 519689874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_188
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd71c1954a9e67f41813fbe1c26cc683
+      internalID: -1411548754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_189
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1187
+        width: 13
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9351bb424c19586489abf1efdad7188a
+      internalID: -1192035172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_190
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 963
+        width: 223
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3fd377e0ca2a4f8202b0df1c760a1
+      internalID: -108776366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_191
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1173
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800b25c93905ec4293291f5551aa7ed
+      internalID: -1778888471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_192
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 883
+        width: 382
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5846c401f12ce3f44a3cd0e3a8f1c503
+      internalID: 763756144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_193
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 923
+        width: 171
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57651c001e4e3f448430dbbfe854ee9
+      internalID: 1755056232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_194
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 963
+        width: 81
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc83994031fcb84481559213c70f585
+      internalID: -480623636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_195
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 883
+        width: 136
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7651cbb62323dc34e9cc24cbe1906f18
+      internalID: 588590961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_196
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 831
+        width: 87
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6ab12a1b087343803b7db7bbba089
+      internalID: -790938521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_197
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1068
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d5424af10a9e440ac57dba8b7a39a4
+      internalID: -1359221349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_198
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 936
+        width: 107
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95771f2710239409e3570d883bc429
+      internalID: 1927115093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_199
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 897
+        width: 166
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3833103afe771f243ab6a809225fb6a6
+      internalID: 967829165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_200
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 910
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20799b3bef4df479b3d17467ae5926
+      internalID: -2102551540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_201
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 883
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94a0a346186e64ab99530e39b0802d
+      internalID: 2050277062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_202
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 844
+        width: 197
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e935b99e76c9419b9969297530238
+      internalID: 571985054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_203
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 910
+        width: 355
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003eb083576218246bf3be3a8930a344
+      internalID: -894702077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_204
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 910
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f1273362190f438ddc2871ee3ccec
+      internalID: -1519795546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_205
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 534
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8079276952abfa4898f0a3b64b5be50
+      internalID: -286006322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 317
+        width: 251
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92375cbb5a06c94f8bc3050815673e3
+      internalID: 800261484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_207
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 322
+        width: 409
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26da9243e7b0f4dac538a30ada5a39
+      internalID: -906059121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_208
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 609
+        width: 211
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7b3938e97a0349b4b0f27f41820bf
+      internalID: 474112481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_209
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 290
+        width: 192
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da247e2b5d1acc4d8bbec2cc6c70467
+      internalID: -1227385035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_210
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 316
+        width: 369
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddf58fbc709fb479322108bc1da0d2
+      internalID: -771780374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_211
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 697
+        width: 158
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f4c69c7a0e914d9b434a4d95ec463
+      internalID: -2078475625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_212
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 277
+        width: 462
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd06ec770301004a95282b2170a40c0
+      internalID: -1249368774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_213
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 582
+        width: 289
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c116ffe242a56542b6522f9506f7247
+      internalID: -1536558112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_214
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 618
+        width: 211
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc7999b5e62384a9f2999546405c37
+      internalID: 447101250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_215
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 499
+        width: 289
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd14741f43fd8b4ba73150100c1e788
+      internalID: -1861778629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_216
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 701
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fb9edcbd12a141965f0385a126033
+      internalID: -1658170873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_217
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 708
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc3bda5e023914eb95cd0a3fc9c6bb
+      internalID: 1509794194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_218
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 662
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1bd22c973f01f4490e490e03ea2164
+      internalID: -60405978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_219
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 578
+        width: 119
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593c7d299279a240a82ed48732df430
+      internalID: 1750384734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_220
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 514
+        width: 237
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bdea3206c58f74aa71587066230b4b
+      internalID: 66670953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_221
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 303
+        width: 405
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16a761043bb4e43903aa9b8ae34b77
+      internalID: 767494806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_222
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 686
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8870077e485bb4abdd8b261a208d02
+      internalID: 980678935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_223
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 356
+        width: 260
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8430ce4beeb9a8545abe76c84e6dbe31
+      internalID: 190381643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_224
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 369
+        width: 167
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683708ae887b59543ad1b4bf4eb07530
+      internalID: -991854035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_225
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 353
+        width: 331
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587d1641ba131e43a3b22cf30780063
+      internalID: -185491415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_226
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 290
+        width: 382
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874779fd5b73ea441bdfd59886cb7b3b
+      internalID: 1739329776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_227
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 317
+        width: 198
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fc01c891dea54885bf3ebcc299625
+      internalID: 1611149097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_228
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 364
+        width: 295
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b026cb8957a042bb9b0fdad3813e7
+      internalID: -1030903132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_229
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 330
+        width: 171
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c628f9b36e874a9859f99c0149018
+      internalID: -1204805352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_230
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 479
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31223297ccc910408e99adf43ec6e5f
+      internalID: -265611593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_231
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 264
+        width: 238
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65aa69425530c418173287ec4e154f
+      internalID: -436347749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_232
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 317
+        width: 342
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a52823efa787640ac73f7cb9d95272
+      internalID: -1580879197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_233
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 462
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b252bc955a8dff841b570574887f5494
+      internalID: 1193458079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_234
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 382
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace699701e4b51345868b3c06e9ac28a
+      internalID: -1848551748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_235
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 277
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9a8a4de6555444aa54e6a113f3c22
+      internalID: 1926161328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteArrows_236
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 277
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d977eccf7f534580417e74450920c
+      internalID: -1928640549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WhiteArrows_48: 1665106984
+      WhiteArrows_60: 281354662
+      WhiteArrows_198: 1927115093
+      WhiteArrows_96: -1321179104
+      WhiteArrows_103: -316591684
+      WhiteArrows_215: -1861778629
+      WhiteArrows_124: -792519559
+      WhiteArrows_190: -108776366
+      WhiteArrows_5: 190265201
+      WhiteArrows_202: 571985054
+      WhiteArrows_62: -546164002
+      WhiteArrows_108: 601440382
+      WhiteArrows_97: 2091990837
+      WhiteArrows_29: 600956036
+      WhiteArrows_211: -2078475625
+      WhiteArrows_81: 1102968896
+      WhiteArrows_20: -1306587589
+      WhiteArrows_216: -1658170873
+      WhiteArrows_40: 154247284
+      WhiteArrows_61: 325558149
+      WhiteArrows_201: 2050277062
+      WhiteArrows_63: -1787416298
+      WhiteArrows_87: -787777150
+      WhiteArrows_109: 1841519434
+      WhiteArrows_182: -1438417154
+      WhiteArrows_141: -1439908094
+      WhiteArrows_52: 929120476
+      WhiteArrows_7: 1598914667
+      WhiteArrows_185: -711458806
+      WhiteArrows_165: 257297350
+      WhiteArrows_149: -589899203
+      WhiteArrows_200: -2102551540
+      WhiteArrows_77: -947429541
+      WhiteArrows_90: -644740474
+      WhiteArrows_134: -1605341190
+      WhiteArrows_110: -925776901
+      WhiteArrows_46: 1725689084
+      WhiteArrows_170: -1314942574
+      WhiteArrows_163: -918651590
+      WhiteArrows_116: 1349732913
+      WhiteArrows_148: -1712036915
+      WhiteArrows_45: -473327892
+      WhiteArrows_95: 888635485
+      WhiteArrows_208: 474112481
+      WhiteArrows_218: -60405978
+      WhiteArrows_156: 1487144121
+      WhiteArrows_171: 541562861
+      WhiteArrows_196: -790938521
+      WhiteArrows_16: -25371060
+      WhiteArrows_226: 1739329776
+      WhiteArrows_18: 1904561125
+      WhiteArrows_175: -362629417
+      WhiteArrows_191: -1778888471
+      WhiteArrows_25: 2005097062
+      WhiteArrows_222: 980678935
+      WhiteArrows_32: 791997532
+      WhiteArrows_80: -497578827
+      WhiteArrows_28: -1138578974
+      WhiteArrows_33: -343842343
+      WhiteArrows_42: 1029933453
+      WhiteArrows_118: 1551244987
+      WhiteArrows_136: 1496535163
+      WhiteArrows_173: 1716214988
+      WhiteArrows_73: 1654773413
+      WhiteArrows_38: 94940629
+      WhiteArrows_207: -906059121
+      WhiteArrows_31: -469814440
+      WhiteArrows_195: 588590961
+      WhiteArrows_176: 1035004775
+      WhiteArrows_4: -70762185
+      WhiteArrows_132: -2076308700
+      WhiteArrows_186: -639185235
+      WhiteArrows_135: -542424700
+      WhiteArrows_233: 1193458079
+      WhiteArrows_229: -1204805352
+      WhiteArrows_126: -1574683140
+      WhiteArrows_102: 2031245769
+      WhiteArrows_212: -1249368774
+      WhiteArrows_142: 2110173073
+      WhiteArrows_8: 187885643
+      WhiteArrows_158: -2072289549
+      WhiteArrows_56: -1297051298
+      WhiteArrows_169: 457051260
+      WhiteArrows_113: -468787645
+      WhiteArrows_79: -2112717231
+      WhiteArrows_114: 554255547
+      WhiteArrows_88: -880513805
+      WhiteArrows_151: 224854444
+      WhiteArrows_232: -1580879197
+      WhiteArrows_2: -1607222076
+      WhiteArrows_137: 280382571
+      WhiteArrows_36: 782418334
+      WhiteArrows_123: -616659440
+      WhiteArrows_35: -482862841
+      WhiteArrows_104: 503970902
+      WhiteArrows_140: 1344017536
+      WhiteArrows_168: 1210041561
+      WhiteArrows_12: 1777252650
+      WhiteArrows_230: -265611593
+      WhiteArrows_133: 976443153
+      WhiteArrows_58: -894776635
+      WhiteArrows_214: 447101250
+      WhiteArrows_177: 1741447382
+      WhiteArrows_160: 1691345418
+      WhiteArrows_228: -1030903132
+      WhiteArrows_219: 1750384734
+      WhiteArrows_15: 693933235
+      WhiteArrows_22: 352308483
+      WhiteArrows_127: 1142435931
+      WhiteArrows_129: 365702711
+      WhiteArrows_205: -286006322
+      WhiteArrows_54: 1742754551
+      WhiteArrows_204: -1519795546
+      WhiteArrows_19: 412025682
+      WhiteArrows_131: 1352762950
+      WhiteArrows_144: 1052980580
+      WhiteArrows_217: 1509794194
+      WhiteArrows_75: 1730098618
+      WhiteArrows_236: -1928640549
+      WhiteArrows_111: -2084374017
+      WhiteArrows_119: 1071921303
+      WhiteArrows_220: 66670953
+      WhiteArrows_231: -436347749
+      WhiteArrows_82: 474929675
+      WhiteArrows_44: 1262719339
+      WhiteArrows_11: -2041790658
+      WhiteArrows_157: -354956379
+      WhiteArrows_179: -450296736
+      WhiteArrows_225: -185491415
+      WhiteArrows_213: -1536558112
+      WhiteArrows_67: 600840328
+      WhiteArrows_188: -1411548754
+      WhiteArrows_227: 1611149097
+      WhiteArrows_92: -456735884
+      WhiteArrows_130: 779580316
+      WhiteArrows_10: 973954093
+      WhiteArrows_101: -1001504979
+      WhiteArrows_128: 1547673401
+      WhiteArrows_235: 1926161328
+      WhiteArrows_66: 710874962
+      WhiteArrows_155: 2099434656
+      WhiteArrows_192: 763756144
+      WhiteArrows_174: 693245800
+      WhiteArrows_57: -1702174031
+      WhiteArrows_183: -1469426990
+      WhiteArrows_112: 1540903511
+      WhiteArrows_53: 1298687669
+      WhiteArrows_26: 1660716759
+      WhiteArrows_21: 707682136
+      WhiteArrows_76: -1722901633
+      WhiteArrows_30: 1238739445
+      WhiteArrows_146: -316654554
+      WhiteArrows_199: 967829165
+      WhiteArrows_121: -1775630294
+      WhiteArrows_17: -305260865
+      WhiteArrows_91: 429494266
+      WhiteArrows_187: 519689874
+      WhiteArrows_203: -894702077
+      WhiteArrows_39: 1295451502
+      WhiteArrows_41: 862484980
+      WhiteArrows_115: 986477257
+      WhiteArrows_98: 1880850767
+      WhiteArrows_145: 1408821272
+      WhiteArrows_86: -211343949
+      WhiteArrows_139: -84356337
+      WhiteArrows_152: -1910632378
+      WhiteArrows_107: 177970984
+      WhiteArrows_180: -1439973593
+      WhiteArrows_153: -73458023
+      WhiteArrows_43: 1198926173
+      WhiteArrows_100: 511002140
+      WhiteArrows_0: 121694902
+      WhiteArrows_84: -1511351446
+      WhiteArrows_154: -1560610258
+      WhiteArrows_164: -1743337804
+      WhiteArrows_193: 1755056232
+      WhiteArrows_172: -1784945548
+      WhiteArrows_197: -1359221349
+      WhiteArrows_68: -1166951102
+      WhiteArrows_34: 617598333
+      WhiteArrows_3: -2016118313
+      WhiteArrows_65: -1795060328
+      WhiteArrows_181: 1605311010
+      WhiteArrows_13: 1377749387
+      WhiteArrows_167: -1578586522
+      WhiteArrows_47: 749677185
+      WhiteArrows_120: -1961681708
+      WhiteArrows_206: 800261484
+      WhiteArrows_209: -1227385035
+      WhiteArrows_6: -1167021504
+      WhiteArrows_55: 163540157
+      WhiteArrows_105: -16742141
+      WhiteArrows_122: -500191733
+      WhiteArrows_106: -281244881
+      WhiteArrows_51: 1109303317
+      WhiteArrows_59: 1265445884
+      WhiteArrows_147: -1994154590
+      WhiteArrows_138: 2051562116
+      WhiteArrows_94: -2050104241
+      WhiteArrows_210: -771780374
+      WhiteArrows_125: -1680674224
+      WhiteArrows_27: 1205233375
+      WhiteArrows_71: 1997161059
+      WhiteArrows_74: -411196804
+      WhiteArrows_37: 1462107362
+      WhiteArrows_24: 219968828
+      WhiteArrows_162: 1830729388
+      WhiteArrows_159: -814285434
+      WhiteArrows_85: 1178736485
+      WhiteArrows_50: -1729826926
+      WhiteArrows_83: 1312563022
+      WhiteArrows_143: -1923268053
+      WhiteArrows_161: -2043481686
+      WhiteArrows_194: -480623636
+      WhiteArrows_93: -45264416
+      WhiteArrows_117: 1536122147
+      WhiteArrows_9: 903195864
+      WhiteArrows_178: 1468991806
+      WhiteArrows_189: -1192035172
+      WhiteArrows_69: 883512695
+      WhiteArrows_223: 190381643
+      WhiteArrows_1: -1610091255
+      WhiteArrows_14: -2021419412
+      WhiteArrows_224: -991854035
+      WhiteArrows_166: 386662823
+      WhiteArrows_234: -1848551748
+      WhiteArrows_99: -1014372678
+      WhiteArrows_49: 1997796686
+      WhiteArrows_221: 767494806
+      WhiteArrows_70: 102557397
+      WhiteArrows_23: 299269724
+      WhiteArrows_78: -1323591927
+      WhiteArrows_64: 846574729
+      WhiteArrows_184: -1874341093
+      WhiteArrows_150: -1071843096
+      WhiteArrows_72: -1859680872
+      WhiteArrows_89: -376625760
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

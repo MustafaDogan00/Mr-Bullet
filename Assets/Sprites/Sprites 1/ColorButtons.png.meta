@@ -1,0 +1,6734 @@
+fileFormatVersion: 2
+guid: 2c4cc9e5bf114de40934bf92e888d446
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ColorButtons_0
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3667
+        width: 928
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ab57189df4a84288e7d36815b8eba
+      internalID: 1047897352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_1
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3643
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c252402d2117672478375eb7ae8b22eb
+      internalID: 1250354423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_2
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 3643
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c82405c499cf648a12771f3e4f0d69
+      internalID: -1797868643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_3
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 3664
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d9dd7342faf847a71333b1f9085f2
+      internalID: -118749190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_4
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3667
+        width: 927
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059cc8967cfc7e4ca384810a145540b
+      internalID: -1003802521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_5
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 3660
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be5717fe6546f42a74ce03e8cb4c1e
+      internalID: -1714574533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_6
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 3646
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bc27defcafdb4487f1eaa161a8ef0
+      internalID: 713958891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_7
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 3646
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9e06e292af874ca8b6c93db8a8fb5
+      internalID: -776758804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_8
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 3664
+        width: 971
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6be734d9365a64597e45d3bc5386f6
+      internalID: -188338868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_9
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 3622
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fb299c4544d5418e1f95abfde5835
+      internalID: -544287538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_10
+      rect:
+        serializedVersion: 2
+        x: 5717
+        y: 3667
+        width: 928
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b24fd0f3cea841b9e27c20cc25fcb
+      internalID: -965638589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_11
+      rect:
+        serializedVersion: 2
+        x: 6709
+        y: 3643
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a3994c1e2ac9498d0db4c32008421
+      internalID: -1954715775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2890
+        width: 1603
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93538f2f923a442811f43983db9002
+      internalID: 1004867692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2869
+        width: 1611
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b021c63ad7d8ad4ba35c66799965b16
+      internalID: -382887961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_14
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 2903
+        width: 1583
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254d6fcedfa131b499bca38fcce15fa7
+      internalID: 648716934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_15
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 3418
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00dc71bb8cd1f4d8baa6c5a3f6d6e6
+      internalID: 2122164770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_16
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 3372
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623099c5ffa5584ba711a7ba683c7f8
+      internalID: 509808078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_17
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 2869
+        width: 1604
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3627db744690e46b5611f5b6030a36
+      internalID: 1905756737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_18
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3354
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd81b81e0810943a2dd474556943f6
+      internalID: -138006294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3396
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6d4867b0fdfd498f9492c11713686
+      internalID: 1704370378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_20
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3354
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9fad92c05b635478f467eb4513dec3
+      internalID: 1621978199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_21
+      rect:
+        serializedVersion: 2
+        x: 6983
+        y: 3354
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3e2c768a2f6e42bf4dbfd863f0017
+      internalID: 1086774036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3354
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a46cf0efc33b4c95325f8fb80f52c
+      internalID: 2117274802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_23
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3351
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ba81d0982b1d4e8a6eb41eafb08bd
+      internalID: 166757223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_24
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 3375
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58259715c7d04b54a9a3555d327d8150
+      internalID: 937599620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3333
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809656eef93bc7d4fba758f6be1623d3
+      internalID: -1414254641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_26
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 3291
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614577e22de4f5459fdfde9aab10a94
+      internalID: -2030908457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_27
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 3312
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae8d5e2547cef54ea5a30be634c7689
+      internalID: -2139200394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_28
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3207
+        width: 24
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e875c7ac5b3141aa8eeaf187b8b4b
+      internalID: 685629093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_29
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 3284
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66d942692527a43a1e7a569019056d
+      internalID: -1151307926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_30
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 3312
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307411dcf8968ac4e8b84a5bf8c0ddc4
+      internalID: 993236545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_31
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 3312
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929eea8c3597a9646abfe6ee2638055e
+      internalID: 393387242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_32
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 3309
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58114d426b33a4fa373be68f1953de
+      internalID: 1082445704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3270
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286231947f2f8954b9f5fe16b4b899fa
+      internalID: -303081439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_34
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 3249
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64de24581ea32419faf7b736267eb8
+      internalID: 1786827520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_35
+      rect:
+        serializedVersion: 2
+        x: 7004
+        y: 3270
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1baebc0b3ec14e90b5d296316826c
+      internalID: 879491577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_36
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 3186
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d260cfb43e9324883d7b9a29c0e02a
+      internalID: -579330685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_37
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 3164
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874877acdfad8e24e913f6dc41e2ed8d
+      internalID: 1242056743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_38
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 3207
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b39755e9ba0014d81079969a382717
+      internalID: 707765184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3186
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee3cd64843ca34f9602b41de37ac34
+      internalID: 383083727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_40
+      rect:
+        serializedVersion: 2
+        x: 6997
+        y: 3186
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aef175d6867664a991cf8a552ca98e
+      internalID: 2005136821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3143
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c9f1bfcff42b44cb5e5f0f6f77236e
+      internalID: -1826389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_42
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 3143
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a58a21dbd44804190a36347f994f61
+      internalID: -130951909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_43
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3122
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a831006c865ec241a411a88d332773c
+      internalID: -1073246807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_44
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 3122
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286322852b5d338429c9d33e8ae65a56
+      internalID: -1535558534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_45
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 3122
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a75fb3c4ad48944a29f180f1e738b2
+      internalID: -2023641525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_46
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 3122
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e866263c5c842341bc13cc5feeab118
+      internalID: -1001729366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_47
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2890
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831728cf0e2ebcd48b04757974086429
+      internalID: -2020914265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_48
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2890
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da76d1c91b6bb645988db462daf7cd3
+      internalID: 739017906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_49
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2869
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378961af03c4c547b6787d150949a77
+      internalID: -1177619824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_50
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 2869
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f143f78949744fa4855369798cc40
+      internalID: -2029782950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_51
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2890
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd10b9e77d597c4d96f7a3ed24dad24
+      internalID: -29315102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_52
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 2890
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6fc139c6dff6a4b955c433ac04d046
+      internalID: -146503479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_53
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2869
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b9955ba43a9446aecf668a3f2e3ec
+      internalID: 234618763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_54
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 2869
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18481b81849e247bdabc1a5d6869e4
+      internalID: -1415407208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_55
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 2869
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d82858b17ccec4b8fb2697fcce2b2f
+      internalID: -404298203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_56
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 2890
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc047b82ac6fc8a4eb1e23bb3adf6a31
+      internalID: 266773932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2869
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e473f26096f5446b6802c3d43f8d28
+      internalID: 238768892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_58
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2869
+        width: 885
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08411175bf0a1924895655a5ef9f6006
+      internalID: -1137916795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_59
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2869
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d83c5e87b7014691c757a9b5243ef
+      internalID: 1299360635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_60
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2869
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289fa90fe8b96494eb2326d99b20fd0d
+      internalID: -712353589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_61
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 2869
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd19fba76f5211418717fea6a44a420
+      internalID: -570071538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_62
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 2869
+        width: 949
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b65ce37655794696ef0d39cb1de51
+      internalID: -391688825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_63
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 2869
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c81d1e12c57ed47a83386586fbaf84
+      internalID: -1534124324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2806
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af450fc040271b6489fbcaabda36c3de
+      internalID: 41649859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2817
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e4755d7d3c4049a55eadb9bf01df0
+      internalID: -1469168873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_66
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2823
+        width: 864
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd94124dd144f47be49886a8af1ae2
+      internalID: 2065427019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_67
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2806
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0053c3eac8c0947a3689bfe21206ac
+      internalID: -1864743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_68
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2820
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765902ee7540573499850e03067e55c8
+      internalID: 428324545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_69
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2820
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d43c486191524ca8f4464ee519ed9
+      internalID: -785326542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_70
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2817
+        width: 907
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd2e8ad3931494c81cd1b3f127976e
+      internalID: -1092794480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_71
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 2806
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbcba9bc66555c44ba7aa90b0c16957
+      internalID: -6254585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_72
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 2810
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f766cc40ca42743b8babc171e262e3
+      internalID: 254861394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_73
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 2820
+        width: 885
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a06ff2eea5a4459cc14a76a48c09c
+      internalID: 1965253689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_74
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 2799
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76478185dda675b459243a5608a04850
+      internalID: 1248236671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_75
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 2806
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95997814d0619458918ba1cca05c5c
+      internalID: 874797949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_76
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 2817
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f68436e96c75440bea5050f999d96e
+      internalID: -830890760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_77
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2823
+        width: 843
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224b006a80afed4db1bd542aa1ea180
+      internalID: 525983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_78
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 2816
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7117a3cd81f42408ec9cfff01829bb
+      internalID: 1448744394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_79
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2785
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016834e827905ea4e9bd26db7833a325
+      internalID: -47592237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_80
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2781
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed8dbaaa85ea646883d7de04b0f852
+      internalID: 2068991875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_81
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2785
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b434f2b463674baa4ae0a0ca17807
+      internalID: 463552053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_82
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 2778
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb656e98c3876b4689c515cd5f28415
+      internalID: 1333613048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_83
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2795
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7fccc6c9617b4582904c8e574613b
+      internalID: -935394959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_84
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 2778
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ecfb4e490c01b4b8529ad89a847956
+      internalID: 927851075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_85
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 2045
+        width: 1603
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbda9c9e9327554a8348c25ebb92a64
+      internalID: -1290108238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_86
+      rect:
+        serializedVersion: 2
+        x: 5591
+        y: 2785
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58929d27e1880cc48a1ba8cfd359e93a
+      internalID: -34240254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_87
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 2785
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd988b7805984c141bf9ce26a181a825
+      internalID: -1859512946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2056
+        width: 1625
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc61922e19fde469111a9584f7a6f1
+      internalID: -1132081647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_89
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2045
+        width: 1590
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f958d9d86876488d08faf21a9f6cb
+      internalID: 1660528284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_90
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2595
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f74e5a629485a42a69298134615065
+      internalID: 153436767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_91
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 2595
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e8e70d6deec4c479f0ca84a86836e9
+      internalID: -411679439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_92
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 2055
+        width: 1582
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a61e8130de5f04f85d0c025fd0963b
+      internalID: -647707190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_93
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2532
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82cf6b0c625a7e44b68e893e5298c63
+      internalID: -139989584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_94
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2532
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d555609738978a46a7514a70a9e65fd
+      internalID: -1021389496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_95
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 2553
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a1f9503866cb4ea949a32431bcf1a
+      internalID: -1443288152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_96
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2553
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3bfbe01e791ce469345d468df29ee5
+      internalID: 1270747384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_97
+      rect:
+        serializedVersion: 2
+        x: 6983
+        y: 2553
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa6f24a02c4a4844a0167cfcede1923
+      internalID: -1376861619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_98
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 2489
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4910414a524f94c8938e5dfaae1f6f
+      internalID: -844918291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_99
+      rect:
+        serializedVersion: 2
+        x: 5267
+        y: 2514
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45fc602b39ae0e45984a30d7c5d93a4
+      internalID: 71279918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_100
+      rect:
+        serializedVersion: 2
+        x: 6990
+        y: 2510
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7ff92cfaf0714d839d781de2ae95b
+      internalID: -507546982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_101
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2489
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9e50db159e2846b50d49535064969
+      internalID: -1883195437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_102
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2489
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33205b5531a37a4da56b7d11354f3bb
+      internalID: -2120621425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_103
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2489
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549ebd15479e5b48b4644e1fce237a1
+      internalID: -169481474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_104
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 2489
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d188cb3e03eb984cb251cbea60078c1
+      internalID: -367491152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_105
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2465
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfffa4528da28648af5617b3059ed1e
+      internalID: -767746323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_106
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2363
+        width: 24
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b4941e58ba8d74c84c4ab320266ca9
+      internalID: 145252625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_107
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 2465
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb83c284ebe534c8be815dc3a9d4ac
+      internalID: -2006758556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_108
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2405
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d932178235237479bd42acbfe72d67
+      internalID: 1180245273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_109
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 2405
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e79f7ca8d81d4a92fe7b1318664d1
+      internalID: -1884097536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_110
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2405
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea0864f56c8ed2449c67f91c94b645f
+      internalID: -740441334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_111
+      rect:
+        serializedVersion: 2
+        x: 5281
+        y: 2405
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e83435c8386344b9a4ed97dc504d7
+      internalID: 1810187352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_112
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 2363
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4532d476b9641428245cb5d9a8bf1c
+      internalID: 1178566434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_113
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2363
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43ee3627efe8844870b435a1a44c62
+      internalID: 61695453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_114
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2300
+        width: 21
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e1a13c9fe91d847bd221ad7c08c0e6
+      internalID: 978197275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_115
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2363
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9157134e2c74fc489802762404e38a9
+      internalID: -591453376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_116
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 2321
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728e43f3d32d06489edf08da1ceaf13
+      internalID: -1323885277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_117
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 2300
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef44181b54bf004cb49f7ca2446c778
+      internalID: -588500665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_118
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2342
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488126f5ff2c4684599d08fc7c1253f6
+      internalID: 1279021269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_119
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2321
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22038a8ecd60afa4e9e9d0e7f54105e0
+      internalID: 1668516527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_120
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2300
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75146c1d12693746936aa3c9a065ece
+      internalID: -1347847002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_121
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2300
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b693ff5c13df5488d08408974b12c5
+      internalID: -26771116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_122
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2278
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a973658847e1469c6d6510fe60c73
+      internalID: -322949098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_123
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2257
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ed6175f51c1f4cb81f31d6a71b9ed
+      internalID: 93255146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_124
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2257
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1413aee6dff3e409e52c5e3a229ffe
+      internalID: -513826862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_125
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 2236
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a55277a8e3501c49b82f510fc56dcff
+      internalID: -299746641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_126
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2236
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03fad410cc310949b2a5f5dc0b3141a
+      internalID: 1838954775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_127
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2046
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15948fe33ba4903409ace12731503267
+      internalID: 1174716701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2025
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7317cb7571bea4d8feb542f537a822
+      internalID: -136952105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_129
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 2025
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944eb2597139724cb49947ca320bac3
+      internalID: 616240373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_130
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 2025
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9bafebd1b32df4ea84b0905447a621
+      internalID: -1154025696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_131
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 2046
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534a08b0833cee4488828ffd07007c6
+      internalID: -1355524468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_132
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2025
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82a12145715d04a997af1e664b75de
+      internalID: -1368640584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_133
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2004
+        width: 949
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7a7eca1947484b9d8c77e0c435384
+      internalID: 637064905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_134
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2004
+        width: 948
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573171ef4ac3224d8cbf36078420c42
+      internalID: -1768974078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_135
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 2025
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663d0f23f99be04db30d0a5a626a256
+      internalID: 567698171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_136
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2025
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f20e53053073e4c952e4cab4c2dd13
+      internalID: -357639264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_137
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 2025
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e19485100aa33418864019e41d3703
+      internalID: 909728516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_138
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 2004
+        width: 949
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf267d04358164ba7cd3efea0026ae
+      internalID: -1823262462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_139
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 2025
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5025c40a3862438202a2df1ece94f
+      internalID: -282840471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_140
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 2004
+        width: 969
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fbe746abedd594fb961f6414a2d052
+      internalID: -1394250552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_141
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 2025
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001219dc6a3afc44ab3c48101ba9b700
+      internalID: 795096693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_142
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1966
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efc95968e2035e45b3efce6d75abe8c
+      internalID: 1139594242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_143
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1973
+        width: 864
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6d44379e65ab43a55be361ff3888d
+      internalID: 1115498395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_144
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1973
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7eb1a6d7f49c244adc2d36d6e7bb15
+      internalID: 596884047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_145
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1959
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522bdecd90e9734ab4f16c0fdafe84b
+      internalID: 1811496832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_146
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1959
+        width: 885
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fde31974c1f4941b22cbf794c4d525
+      internalID: -1755438529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_147
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 1959
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f832da2de55541438df50abe7947148
+      internalID: -1522293949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_148
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1969
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12c64393659674ab4f7ab6ae699ce6
+      internalID: -824929352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_149
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 1973
+        width: 864
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a0db769d34634794f73cf6a9522b9
+      internalID: 1474043298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_150
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 1962
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc7042c55b20d48b454cb0e24f11e9
+      internalID: 1001954414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_151
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 1966
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c984b9a05b7ad440a9389018c416d0c
+      internalID: -1297691144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_152
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 1976
+        width: 886
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e2410407fbea043b3bbf28fdee281c
+      internalID: 933271855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_153
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 1973
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3d1152c61375e4cb7342b3d40527ec
+      internalID: 650650365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_154
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 1955
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20807f81f2c75d24aa6507ac184a1dc9
+      internalID: -631063586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1203
+        width: 1590
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665a0f478dfc144c874a605710f54c9
+      internalID: 1480387014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_156
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1941
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1cec21b766e341954109d520eba10
+      internalID: -676128575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_157
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1948
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd46ef4256aa9145bfeef8530872630
+      internalID: -36961380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_158
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1938
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed7af1ce6b8fb418e3843d5a63ff4e
+      internalID: -1730557865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_159
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 1955
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5da8209064ca42a9e2b7eff5b9a0c
+      internalID: -1983588368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_160
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1945
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb475486f2c914c9cc25d7da817d77
+      internalID: -1653257298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_161
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 1941
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe20a4135261544b82ab413fdc3fae
+      internalID: -1478376532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_162
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 1201
+        width: 1590
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5c95106a8dbb46aff94af539b135f
+      internalID: 366118301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_163
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 1920
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d654ba61b8a93d4f924deb5bb915045
+      internalID: -824472325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_164
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1920
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7503844fe37c1444d9de580d92d02941
+      internalID: -202910859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_165
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 1937
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e90c8014b157f54ea619bb7ff86793b
+      internalID: 1497971763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_166
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1201
+        width: 1585
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8249f0ff0cd41bd40af882de7e175b92
+      internalID: 1198760207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_167
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1709
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe05eba1ed2929340adfef5922fddff2
+      internalID: 1359865991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_168
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1709
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4879329662a7841bece66087601680
+      internalID: -1422468105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_169
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1194
+        width: 1579
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1751f0228daa438605ed8084d4bc1
+      internalID: -360608721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_170
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 1730
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afc3984394faaf4c8cd541dc8029585
+      internalID: 862917065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_171
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 1709
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6409d94bcb5924f8550960001bef5f
+      internalID: 1121960205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_172
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1646
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d1fdfd2e2c6a498dc58197f1aaf86
+      internalID: -161569913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_173
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1646
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934dcda4c1ae45840ad39124dad87ee6
+      internalID: 217560684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_174
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 1604
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dbe738194889b47a4d96bc5926b4aa
+      internalID: 1028612060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_175
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 1684
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2521970b3210984baa9b0b94ee426f0
+      internalID: -1073697273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_176
+      rect:
+        serializedVersion: 2
+        x: 6990
+        y: 1603
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9a9db90fb044498909540c6d3dfcc
+      internalID: -441320170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_177
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1498
+        width: 27
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6316456cceee479ca993094774f1c
+      internalID: -1933827214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_178
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 1625
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233aecafaaf437143b6113fa6839639f
+      internalID: 47069425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_179
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 1625
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a09f730e276cc4f92789dce18ccc93
+      internalID: -752008806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_180
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 1625
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b1db1570fdfa34b9507b4945a4b2ae
+      internalID: -1683577844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_181
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1603
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f0532e8888d92499389a2887063d8f
+      internalID: 139105117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_182
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1456
+        width: 21
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4197c7dc73298f4a87a3f5e1b6bed80
+      internalID: 941240264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_183
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1519
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca15bb3a2e3244da7d2be7cb9eace4
+      internalID: 1020597902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_184
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 1477
+        width: 10
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e036fba0b148642a7328b83305e139
+      internalID: 9148776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_185
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 1561
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b509d058ec369234e910b557770179c5
+      internalID: 1411852880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_186
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 1561
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f6860bda47864098c77542e01a756
+      internalID: -1954846996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_187
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 1561
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c654ab90695a84d887410d375cdc24
+      internalID: 698258622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_188
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 1561
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd69560f4cbf7e4083048da49ea072f
+      internalID: -1006449194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_189
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 1519
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e2980f5676f14cbbcc58a9905eceb
+      internalID: -496626404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_190
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1498
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25c90026997f849a0dc73e82966860
+      internalID: 1958294770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_191
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 1477
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c6ebc484a8ea2469bb92254502d8be
+      internalID: 1154483021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_192
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 1456
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea6131c12f70247a0f4c234c8c6d39
+      internalID: 1489761014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_193
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 1477
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec60a09c868f9e4d8f9ee43b2a00ef4
+      internalID: -1697858308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_194
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1456
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2e979dab841e4095a209984ab4621
+      internalID: 1053451515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_195
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1456
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0303937c065d9c648b69e282c2169675
+      internalID: 1629064036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_196
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1435
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73844be94eb5b1b44b0eb728a1fbab58
+      internalID: -43288207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_197
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1435
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe3aa33c03be1c45b6d022a4f46007c
+      internalID: 1483351491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_198
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1414
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c359c1e485d744be1ffcb42d2fa0d
+      internalID: -359027937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_199
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 1435
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f72cd705cc1d24ba00b0fac6d8182b
+      internalID: 860433168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_200
+      rect:
+        serializedVersion: 2
+        x: 6980
+        y: 1435
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601164d0efd0414d9c97c071ad23b8f
+      internalID: 228294818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_201
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1414
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f24be877e227444b2db178286ef9c5
+      internalID: -406765682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_202
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 1414
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd25461f0e5e2b6458f1eda5d667a2ee
+      internalID: 218635501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_203
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1371
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ddde5af55b02e4c9d34b7ebdd159d8
+      internalID: 699816526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_204
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1182
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130b6f6d7c4cfeb439bc37f6d4519356
+      internalID: 511337504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_205
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1160
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16f28a8dc6cac4da2a8ff898e1acb7
+      internalID: -1574688089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_206
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1160
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb42068870bf424488d18295c5f9962
+      internalID: 1789612042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_207
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1118
+        width: 1054
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7066797ecde74496d34f650d6e22b
+      internalID: 1496472007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_208
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 1182
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf81b368b639d942a53c969d517ad2d
+      internalID: 823225381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_209
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 1160
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081fdf23585a6e4c85d87ebe6946ad8
+      internalID: -633138822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_210
+      rect:
+        serializedVersion: 2
+        x: 4934
+        y: 1160
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4657cddc8144b14ea3b5121967361eb
+      internalID: 1879245073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_211
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 1182
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd37c26955ed7e41a3372cd5711137a
+      internalID: 552740177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_212
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 1182
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db5213aa09c83429bc7a9464b9ebec
+      internalID: 1383811759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_213
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 1182
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a47cf5fdccd0345bd92df571f38916
+      internalID: -826028715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_214
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 1160
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24d8c2a90329641813681d531838dc
+      internalID: -1549257271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_215
+      rect:
+        serializedVersion: 2
+        x: 6730
+        y: 1182
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bff82554343b4cb0a46b83b82a129
+      internalID: -1032831895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_216
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1160
+        width: 864
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685ddbba60a51c469040aa5e7fea67b
+      internalID: -71339335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_217
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1160
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b21e5e0774bf8488d0061aad3e81a2
+      internalID: -1431396685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_218
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 1160
+        width: 885
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff56a837e5774f4dae8b910bfa04f46
+      internalID: 2100631033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_219
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 1160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64480b66a1d7174482b736555930a8a
+      internalID: 1522118612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_220
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1160
+        width: 864
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f831493936bd0a438591bd0dc287d22
+      internalID: 1734974363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_221
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a8bd8da4e993f4fbee410152e73d5b
+      internalID: 351365920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_222
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1129
+        width: 864
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3706b250a1a98b4cb2967e8802a6983
+      internalID: 1699571755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_223
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1115
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac62f75db513884aa7b6808fecf84ce
+      internalID: -729214891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_224
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1094
+        width: 126
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38504e9c15a5f3a44b6dec146ce720f6
+      internalID: -1457671676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_225
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1122
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c776b719b65c6479f20cea7ae8f14f
+      internalID: -506199664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_226
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1132
+        width: 822
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448cd195ae46bce46b9d394e025ffd65
+      internalID: -1789511984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_227
+      rect:
+        serializedVersion: 2
+        x: 4916
+        y: 1125
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0cda5f18bbca448157c32bd40353d
+      internalID: 591330672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_228
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 1115
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315507d5a82cf674a99238bdddde84d1
+      internalID: 1047681722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_229
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 1115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639d30e3b4046be49ac83a040d57fd22
+      internalID: -1758277976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_230
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 1129
+        width: 886
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631277947cb5ac4788aca304738feb1
+      internalID: 1362500913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_231
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 1125
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7d2075278ed642bb6fe34d9e01be5
+      internalID: 2038893977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_232
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 1118
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1baff42782741e4f986c4302c542f93
+      internalID: -2080935384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_233
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1118
+        width: 822
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde4148af2413c47b596c8b0ee234b6
+      internalID: -520739490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_234
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1118
+        width: 822
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed19c2772be8b4899aa01d6406d1cb
+      internalID: -1023909820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_235
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1108
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e9959d8932a84d9461be490968846
+      internalID: 1886731022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_236
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1097
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863caf055a845214d854f372a1aa062f
+      internalID: -45792722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_237
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1097
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a0f8f6d419754182373397b721dd7
+      internalID: -911332940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_238
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1108
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7ea4ceb16bce4391531ec702924ea
+      internalID: 1639862294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_239
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 357
+        width: 1584
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe188f0c71c084b9ff752ab7154119
+      internalID: -1159005186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_240
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1097
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b405a553ea0d4d04f912560835f5be43
+      internalID: 387179161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_241
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 1097
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecded903c8a86a44a9c9fcaa8fff1530
+      internalID: 714601712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_242
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 1104
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70284cce4fe3c74dbe8d26317a1f3a8
+      internalID: 232769216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_243
+      rect:
+        serializedVersion: 2
+        x: 6709
+        y: 1108
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d738cf0b3e4eec4abcbcd61d94a8bc6
+      internalID: -267677758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_244
+      rect:
+        serializedVersion: 2
+        x: 6751
+        y: 1097
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66d9db459e7eb4a8edd1149b8c5904
+      internalID: 903670783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_245
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 357
+        width: 1645
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae998fd4185aa0c47a546b2780577e43
+      internalID: 344228520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_246
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 886
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed95e697942da4daa506a9d08e9f6d
+      internalID: 1734309430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_247
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 844
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3155dc149d72884981974a810719e65
+      internalID: 508273148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_248
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 357
+        width: 1625
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c039c8e886ed5428c04c99e785f368
+      internalID: 1685883275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_249
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 886
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32be213c66c9a514e84b83984f0eff36
+      internalID: -312551373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_250
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 358
+        width: 1590
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226858955c88c8441b1898b6358f9d46
+      internalID: 1923447049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_251
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 837
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451bce2de360d4e4da25463ce44495fa
+      internalID: -278682915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_252
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 844
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3077f266906cce4db159c01afeeec6b
+      internalID: 400732722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_253
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 823
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f33376f7440f4388993f95dc09836
+      internalID: -1921735753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_254
+      rect:
+        serializedVersion: 2
+        x: 6980
+        y: 802
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77e71aca82dc64693bdbc2bb6d9ac0
+      internalID: -735271645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_255
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 802
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6d21d19d20734799a940244939cbc
+      internalID: 884581087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_256
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 781
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8087bac17513cd4c81f5c539e62b6f7
+      internalID: -1811765109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_257
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 802
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba79939f0cb344db3df1cf076fcd84
+      internalID: -1401198267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_258
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 802
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e537896b0b8f42bdbed6bd3e9d4da
+      internalID: 418125042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_259
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 802
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0256489f52ee44cb87653d2502c101
+      internalID: 1605516611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_260
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 802
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9687877dd316c14598d2186db607f04
+      internalID: 346496570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_261
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 654
+        width: 24
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dcfbda5a70b0948b651d8297a0b670
+      internalID: 527736639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_262
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 654
+        width: 28
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d07ea9f9e1e04b9aeb97042b7e2cd
+      internalID: -576679475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_263
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 717
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833130ba3c5f29b4f9792395464c1e57
+      internalID: -1280981724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_264
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 717
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795ff9a5309c4443a10e520b299f859
+      internalID: 726291131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_265
+      rect:
+        serializedVersion: 2
+        x: 5281
+        y: 717
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739831d76090474db9778ce9d02a005
+      internalID: -892399006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_266
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 717
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095589ee7e292134fb23ecbe450fc48e
+      internalID: 925572784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_267
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 717
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c63c2c91740bd4a9342dc5fe363792
+      internalID: 193659851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_268
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 633
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352ccf1579e22743be1fadc7bc4103d
+      internalID: -104140931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_269
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 675
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba454cf0da52048aa5b52dfd91dc30
+      internalID: -1478455006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_270
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 612
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6b6e14ee33b44590e876129068f8d
+      internalID: 2014491351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_271
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 570
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d0a490e29b5f4428a9444e6d14d460
+      internalID: 1358374754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_272
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 612
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd131384bd7748b4f9510f01b12afd6f
+      internalID: -1469877089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_273
+      rect:
+        serializedVersion: 2
+        x: 6994
+        y: 633
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21a7e0987a22d4ea76b2f650131648
+      internalID: -706180994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_274
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 591
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25704fba94ec7484f9a874259b99614c
+      internalID: 1877592449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_275
+      rect:
+        serializedVersion: 2
+        x: 6983
+        y: 591
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c5b49b46ebfb94b9944e9b3c8f66bc
+      internalID: -1617602294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_276
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 549
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b627da861fc5b44a3f7ee4b5ccd78f
+      internalID: 1404009300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_277
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 570
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7c378c3815f5468af04b9f9c3c021
+      internalID: 1730845015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_278
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 549
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273b9b48715b88b45b6342e93e42a224
+      internalID: 477992063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_279
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f181767c0b0957c46a0f89c6ee27c9f6
+      internalID: 2105661571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_280
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 317
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8507ad9f4ced7a4f9f0a7f11ded3f5f
+      internalID: -689481226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_281
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 338
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1baddfd182db94481eb16a1ba4b5c5
+      internalID: 2019187372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_282
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 338
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b19e93ef52f84989bf8bdda34237d
+      internalID: -1231845957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_283
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 338
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928a2cb3e0a7324fa5d6ab3003b28f0
+      internalID: 1968848894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_284
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 317
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426b7305e6755f4e92a6727536bcca5
+      internalID: 940921263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_285
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 338
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f96c47803d0346831d2dac86f580a
+      internalID: 867822229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_286
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 338
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c659027d571bf4e999e7ee3929dae2
+      internalID: 282348490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_287
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 338
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47034725d71ae6b44bc8ec502371e4d6
+      internalID: -1940286577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_288
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 317
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe270ab4ee19e4c8236c1401396624
+      internalID: -335398404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_289
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 317
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfabb14c37c9184c882b1e876ab47f2
+      internalID: 528042478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_290
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 338
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a447865d96f636e489fa6a2a2f1ffbf7
+      internalID: 1817286969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_291
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 338
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09eebb02b91ed44a1c10a203c43d02
+      internalID: 1349473875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_292
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 317
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d28d1fd1cf8d4aba8ad1fa24a7712
+      internalID: 429552625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_293
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25926752ba56bb440878c75e78f05e65
+      internalID: 949386030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_294
+      rect:
+        serializedVersion: 2
+        x: 6692
+        y: 338
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395187e987569a34988857f34461c509
+      internalID: 80112262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_295
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 317
+        width: 864
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e951ff98a90794ab51572738eff94c
+      internalID: -1491339240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_296
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 317
+        width: 843
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff597e031e058164d89fb92957d7197c
+      internalID: -1423934386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_297
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 317
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848d9b2d19ccd9e48931ddc32abb4268
+      internalID: 208320507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_298
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 317
+        width: 886
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa777e5bba006b943875f4290127a810
+      internalID: 987704895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorButtons_299
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 317
+        width: 865
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90313abbd0d9941a595e0b874e48b6
+      internalID: -298882298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ColorButtons_98: -844918291
+      ColorButtons_48: 739017906
+      ColorButtons_224: -1457671676
+      ColorButtons_158: -1730557865
+      ColorButtons_210: 1879245073
+      ColorButtons_44: -1535558534
+      ColorButtons_90: 153436767
+      ColorButtons_139: -282840471
+      ColorButtons_53: 234618763
+      ColorButtons_73: 1965253689
+      ColorButtons_195: 1629064036
+      ColorButtons_37: 1242056743
+      ColorButtons_235: 1886731022
+      ColorButtons_176: -441320170
+      ColorButtons_238: 1639862294
+      ColorButtons_294: 80112262
+      ColorButtons_285: 867822229
+      ColorButtons_58: -1137916795
+      ColorButtons_13: -382887961
+      ColorButtons_56: 266773932
+      ColorButtons_5: -1714574533
+      ColorButtons_283: 1968848894
+      ColorButtons_161: -1478376532
+      ColorButtons_234: -1023909820
+      ColorButtons_127: 1174716701
+      ColorButtons_77: 525983167
+      ColorButtons_222: 1699571755
+      ColorButtons_29: -1151307926
+      ColorButtons_100: -507546982
+      ColorButtons_18: -138006294
+      ColorButtons_144: 596884047
+      ColorButtons_141: 795096693
+      ColorButtons_268: -104140931
+      ColorButtons_275: -1617602294
+      ColorButtons_160: -1653257298
+      ColorButtons_231: 2038893977
+      ColorButtons_223: -729214891
+      ColorButtons_163: -824472325
+      ColorButtons_47: -2020914265
+      ColorButtons_3: -118749190
+      ColorButtons_280: -689481226
+      ColorButtons_63: -1534124324
+      ColorButtons_119: 1668516527
+      ColorButtons_295: -1491339240
+      ColorButtons_168: -1422468105
+      ColorButtons_298: 987704895
+      ColorButtons_49: -1177619824
+      ColorButtons_291: 1349473875
+      ColorButtons_34: 1786827520
+      ColorButtons_199: 860433168
+      ColorButtons_33: -303081439
+      ColorButtons_0: 1047897352
+      ColorButtons_179: -752008806
+      ColorButtons_36: -579330685
+      ColorButtons_142: 1139594242
+      ColorButtons_129: 616240373
+      ColorButtons_205: -1574688089
+      ColorButtons_152: 933271855
+      ColorButtons_253: -1921735753
+      ColorButtons_111: 1810187352
+      ColorButtons_233: -520739490
+      ColorButtons_173: 217560684
+      ColorButtons_178: 47069425
+      ColorButtons_263: -1280981724
+      ColorButtons_87: -1859512946
+      ColorButtons_241: 714601712
+      ColorButtons_155: 1480387014
+      ColorButtons_133: 637064905
+      ColorButtons_282: -1231845957
+      ColorButtons_92: -647707190
+      ColorButtons_228: 1047681722
+      ColorButtons_184: 9148776
+      ColorButtons_165: 1497971763
+      ColorButtons_84: 927851075
+      ColorButtons_59: 1299360635
+      ColorButtons_50: -2029782950
+      ColorButtons_194: 1053451515
+      ColorButtons_12: 1004867692
+      ColorButtons_261: 527736639
+      ColorButtons_279: 2105661571
+      ColorButtons_97: -1376861619
+      ColorButtons_227: 591330672
+      ColorButtons_167: 1359865991
+      ColorButtons_200: 228294818
+      ColorButtons_75: 874797949
+      ColorButtons_286: 282348490
+      ColorButtons_174: 1028612060
+      ColorButtons_248: 1685883275
+      ColorButtons_169: -360608721
+      ColorButtons_198: -359027937
+      ColorButtons_41: -1826389828
+      ColorButtons_45: -2023641525
+      ColorButtons_1: 1250354423
+      ColorButtons_293: 949386030
+      ColorButtons_71: -6254585
+      ColorButtons_202: 218635501
+      ColorButtons_69: -785326542
+      ColorButtons_181: 139105117
+      ColorButtons_272: -1469877089
+      ColorButtons_170: 862917065
+      ColorButtons_27: -2139200394
+      ColorButtons_113: 61695453
+      ColorButtons_137: 909728516
+      ColorButtons_96: 1270747384
+      ColorButtons_134: -1768974078
+      ColorButtons_148: -824929352
+      ColorButtons_114: 978197275
+      ColorButtons_67: -1864743119
+      ColorButtons_112: 1178566434
+      ColorButtons_153: 650650365
+      ColorButtons_146: -1755438529
+      ColorButtons_21: 1086774036
+      ColorButtons_266: 925572784
+      ColorButtons_32: 1082445704
+      ColorButtons_219: 1522118612
+      ColorButtons_270: 2014491351
+      ColorButtons_30: 993236545
+      ColorButtons_38: 707765184
+      ColorButtons_88: -1132081647
+      ColorButtons_292: 429552625
+      ColorButtons_147: -1522293949
+      ColorButtons_79: -47592237
+      ColorButtons_204: 511337504
+      ColorButtons_17: 1905756737
+      ColorButtons_262: -576679475
+      ColorButtons_264: 726291131
+      ColorButtons_23: 166757223
+      ColorButtons_15: 2122164770
+      ColorButtons_159: -1983588368
+      ColorButtons_171: 1121960205
+      ColorButtons_85: -1290108238
+      ColorButtons_46: -1001729366
+      ColorButtons_118: 1279021269
+      ColorButtons_26: -2030908457
+      ColorButtons_109: -1884097536
+      ColorButtons_203: 699816526
+      ColorButtons_65: -1469168873
+      ColorButtons_157: -36961380
+      ColorButtons_74: 1248236671
+      ColorButtons_7: -776758804
+      ColorButtons_297: 208320507
+      ColorButtons_185: 1411852880
+      ColorButtons_237: -911332940
+      ColorButtons_215: -1032831895
+      ColorButtons_217: -1431396685
+      ColorButtons_230: 1362500913
+      ColorButtons_249: -312551373
+      ColorButtons_232: -2080935384
+      ColorButtons_180: -1683577844
+      ColorButtons_110: -740441334
+      ColorButtons_83: -935394959
+      ColorButtons_245: 344228520
+      ColorButtons_151: -1297691144
+      ColorButtons_11: -1954715775
+      ColorButtons_208: 823225381
+      ColorButtons_288: -335398404
+      ColorButtons_236: -45792722
+      ColorButtons_255: 884581087
+      ColorButtons_70: -1092794480
+      ColorButtons_121: -26771116
+      ColorButtons_252: 400732722
+      ColorButtons_86: -34240254
+      ColorButtons_162: 366118301
+      ColorButtons_19: 1704370378
+      ColorButtons_191: 1154483021
+      ColorButtons_214: -1549257271
+      ColorButtons_216: -71339335
+      ColorButtons_271: 1358374754
+      ColorButtons_103: -169481474
+      ColorButtons_201: -406765682
+      ColorButtons_123: 93255146
+      ColorButtons_296: -1423934386
+      ColorButtons_274: 1877592449
+      ColorButtons_105: -767746323
+      ColorButtons_102: -2120621425
+      ColorButtons_156: -676128575
+      ColorButtons_242: 232769216
+      ColorButtons_299: -298882298
+      ColorButtons_213: -826028715
+      ColorButtons_115: -591453376
+      ColorButtons_78: 1448744394
+      ColorButtons_177: -1933827214
+      ColorButtons_43: -1073246807
+      ColorButtons_9: -544287538
+      ColorButtons_239: -1159005186
+      ColorButtons_108: 1180245273
+      ColorButtons_244: 903670783
+      ColorButtons_35: 879491577
+      ColorButtons_197: 1483351491
+      ColorButtons_240: 387179161
+      ColorButtons_89: 1660528284
+      ColorButtons_276: 1404009300
+      ColorButtons_182: 941240264
+      ColorButtons_6: 713958891
+      ColorButtons_220: 1734974363
+      ColorButtons_31: 393387242
+      ColorButtons_93: -139989584
+      ColorButtons_221: 351365920
+      ColorButtons_81: 463552053
+      ColorButtons_62: -391688825
+      ColorButtons_91: -411679439
+      ColorButtons_130: -1154025696
+      ColorButtons_40: 2005136821
+      ColorButtons_106: 145252625
+      ColorButtons_281: 2019187372
+      ColorButtons_72: 254861394
+      ColorButtons_55: -404298203
+      ColorButtons_265: -892399006
+      ColorButtons_125: -299746641
+      ColorButtons_206: 1789612042
+      ColorButtons_267: 193659851
+      ColorButtons_186: -1954846996
+      ColorButtons_207: 1496472007
+      ColorButtons_68: 428324545
+      ColorButtons_42: -130951909
+      ColorButtons_284: 940921263
+      ColorButtons_226: -1789511984
+      ColorButtons_187: 698258622
+      ColorButtons_138: -1823262462
+      ColorButtons_4: -1003802521
+      ColorButtons_259: 1605516611
+      ColorButtons_290: 1817286969
+      ColorButtons_8: -188338868
+      ColorButtons_136: -357639264
+      ColorButtons_107: -2006758556
+      ColorButtons_277: 1730845015
+      ColorButtons_122: -322949098
+      ColorButtons_246: 1734309430
+      ColorButtons_128: -136952105
+      ColorButtons_66: 2065427019
+      ColorButtons_209: -633138822
+      ColorButtons_61: -570071538
+      ColorButtons_51: -29315102
+      ColorButtons_132: -1368640584
+      ColorButtons_60: -712353589
+      ColorButtons_247: 508273148
+      ColorButtons_254: -735271645
+      ColorButtons_95: -1443288152
+      ColorButtons_243: -267677758
+      ColorButtons_57: 238768892
+      ColorButtons_289: 528042478
+      ColorButtons_183: 1020597902
+      ColorButtons_116: -1323885277
+      ColorButtons_28: 685629093
+      ColorButtons_39: 383083727
+      ColorButtons_24: 937599620
+      ColorButtons_54: -1415407208
+      ColorButtons_175: -1073697273
+      ColorButtons_166: 1198760207
+      ColorButtons_193: -1697858308
+      ColorButtons_126: 1838954775
+      ColorButtons_150: 1001954414
+      ColorButtons_64: 41649859
+      ColorButtons_52: -146503479
+      ColorButtons_211: 552740177
+      ColorButtons_192: 1489761014
+      ColorButtons_104: -367491152
+      ColorButtons_212: 1383811759
+      ColorButtons_287: -1940286577
+      ColorButtons_16: 509808078
+      ColorButtons_143: 1115498395
+      ColorButtons_82: 1333613048
+      ColorButtons_196: -43288207
+      ColorButtons_257: -1401198267
+      ColorButtons_172: -161569913
+      ColorButtons_120: -1347847002
+      ColorButtons_80: 2068991875
+      ColorButtons_225: -506199664
+      ColorButtons_278: 477992063
+      ColorButtons_260: 346496570
+      ColorButtons_269: -1478455006
+      ColorButtons_117: -588500665
+      ColorButtons_131: -1355524468
+      ColorButtons_251: -278682915
+      ColorButtons_164: -202910859
+      ColorButtons_258: 418125042
+      ColorButtons_2: -1797868643
+      ColorButtons_99: 71279918
+      ColorButtons_94: -1021389496
+      ColorButtons_101: -1883195437
+      ColorButtons_188: -1006449194
+      ColorButtons_22: 2117274802
+      ColorButtons_229: -1758277976
+      ColorButtons_76: -830890760
+      ColorButtons_140: -1394250552
+      ColorButtons_20: 1621978199
+      ColorButtons_135: 567698171
+      ColorButtons_124: -513826862
+      ColorButtons_190: 1958294770
+      ColorButtons_154: -631063586
+      ColorButtons_218: 2100631033
+      ColorButtons_25: -1414254641
+      ColorButtons_273: -706180994
+      ColorButtons_14: 648716934
+      ColorButtons_256: -1811765109
+      ColorButtons_145: 1811496832
+      ColorButtons_149: 1474043298
+      ColorButtons_250: 1923447049
+      ColorButtons_10: -965638589
+      ColorButtons_189: -496626404
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

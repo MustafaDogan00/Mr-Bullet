@@ -9,6 +9,7 @@ public class Enemy : MonoBehaviour
     void Death()
     {
         gameObject.tag = "Untagged";
+        FindObjectOfType<GameManager>().EnemyCountCheck();
         foreach (Transform obj in transform)
         {
             obj.GetComponent<Rigidbody2D>().gravityScale = 1;
@@ -30,7 +31,6 @@ public class Enemy : MonoBehaviour
             if (other.GetComponent<Rigidbody2D>().velocity.magnitude>1.5f)
             {
                 Death();
-                print("death");
             }
         }
         if (other.gameObject.tag == "Ground")
@@ -38,7 +38,6 @@ public class Enemy : MonoBehaviour
             if (GetComponent<Rigidbody2D>().velocity.magnitude > 1.5f)
             {
                 Death();
-                print("death1");
             }
         }
 
