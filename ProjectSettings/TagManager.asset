@@ -8,6 +8,12 @@ TagManager:
   - FirePos1
   - FirePos2
   - Gun
+  - Bullet
+  - Box
+  - Tnt
+  - BoxPlank
+  - Plank
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -18,10 +24,10 @@ TagManager:
   - Player
   - Ground
   - BG
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Bullet
+  - BulletIgnore
+  - BodyParts
   - 
   - 
   - 
@@ -53,4 +59,10 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1044673633
+    locked: 0
+  - name: Enemy
+    uniqueID: 426201739
+    locked: 0
+  - name: Env
+    uniqueID: 368799181
     locked: 0
