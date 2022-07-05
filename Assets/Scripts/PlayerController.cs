@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float _rotateSpeed, _bulletSpeed = 100;
 
-    [HideInInspector] public int ammo = 4;
+    [HideInInspector] public int ammo =4;
 
     private Transform _handPos;
     private Transform _firePos1, _firePos2;

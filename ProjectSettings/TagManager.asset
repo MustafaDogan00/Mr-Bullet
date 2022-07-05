@@ -19,6 +19,9 @@ TagManager:
   - Enemy
   - GameOverPanel
   - Crosshair
+  - GoldenStar
+  - GoldenStar2
+  - GoldenStar3
   layers:
   - Default
   - TransparentFX

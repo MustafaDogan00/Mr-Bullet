@@ -13,17 +13,10 @@ public class GameManager : MonoBehaviour
     public int goldenBullets = 1;
 
     public GameObject blackBullet, goldenBullet;
-    private GameObject _gameOverPanel;
-
-    private GameObject _crosshair;
 
 
     private void Awake()
-    {
-        _gameOverPanel = GameObject.FindGameObjectWithTag("GameOverPanel");
-        _gameOverPanel.SetActive(false);
-        _crosshair = GameObject.FindGameObjectWithTag("Crosshair");
-
+    {     
         FindObjectOfType<PlayerController>().ammo=blackBullets+goldenBullets;
         for (int i = 0; i < blackBullets; i++)
         {
@@ -45,7 +38,7 @@ public class GameManager : MonoBehaviour
             GameObject.FindGameObjectsWithTag("Bullet").Length<=0)
         {
             gameOver = true;
-            _gameOverPanel.SetActive(true);
+            UI.Instance.GameOverPanel();
         }
     }
 
@@ -55,9 +48,8 @@ public class GameManager : MonoBehaviour
         _enemyCount = GameObject.FindGameObjectsWithTag("Enemy").Length;
         if (_enemyCount <=0)
         {
-
+            UI.Instance.WinScreen();
         }
-
     }
 
     public void BulletImage()
@@ -74,7 +66,10 @@ public class GameManager : MonoBehaviour
         }
     }
 
-
+    public void NextLevel()
+    {
+        //SceneManager.LoadScene()
+    }
     public void Restart()
     {
         SceneManager.LoadScene(0);
