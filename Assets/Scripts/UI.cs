@@ -18,6 +18,8 @@ public class UI : MonoBehaviour
 
     [SerializeField] private GameObject _goldenStar1,_goldenStar2,_goldenStar3;
 
+    public bool canTouch;
+
 
     void Awake()
     {
@@ -26,6 +28,8 @@ public class UI : MonoBehaviour
 
         startBB = _gameManager.blackBullets;
         _gameOverPanel.SetActive(false);
+
+        canTouch = false;
     }
 
    
@@ -37,6 +41,7 @@ public class UI : MonoBehaviour
     public void WinScreen()
     {
         _winPanel.SetActive(true);
+        canTouch = true;
         if (_gameManager.blackBullets>=startBB)
         {
             _goodJobText.text = "FANTASTIC!";

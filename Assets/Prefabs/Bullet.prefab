@@ -107,7 +107,7 @@ Rigidbody2D:
   m_Material: {fileID: 6200000, guid: 49b1557de7e501a48bf97318f49d74b8, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!58 &4419773973354853188
 CircleCollider2D:
@@ -254,3 +254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 589df954d0028a94ca472d8b0aa41231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _boxHit: {fileID: 8300000, guid: 41ec067ce138b144bbc88f143ce70b27, type: 3}
+  _plankHit: {fileID: 8300000, guid: 767c5dea071e15b4a8c9f64c620d2f08, type: 3}
+  _tntHit: {fileID: 8300000, guid: a44884d105a3b784182ec41f327b0128, type: 3}
+  _groundHit: {fileID: 8300000, guid: 767c5dea071e15b4a8c9f64c620d2f08, type: 3}

@@ -19,6 +19,8 @@ public class PlayerController : MonoBehaviour
 
     private Vector3 _velocity;
 
+    [SerializeField] private AudioClip _gunShot;
+
 
     void Start()
     {
@@ -52,34 +54,40 @@ public class PlayerController : MonoBehaviour
 
     void Aim()
     {
-        Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - _handPos.position;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + 90;
-        Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-        _handPos.rotation = Quaternion.Slerp(transform.rotation, rotation, _rotateSpeed * Time.deltaTime);      
+        if (!UI.Instance.canTouch)
+        {
+            Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - _handPos.position;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + 90;
+            Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+            _handPos.rotation = Quaternion.Slerp(transform.rotation, rotation, _rotateSpeed * Time.deltaTime);
 
-        _lineRenderer.enabled = true;
-        _lineRenderer.SetPosition(0, _firePos1.position);
-        _lineRenderer.SetPosition(1, _firePos2.position);
+            _lineRenderer.enabled = true;
+            _lineRenderer.SetPosition(0, _firePos1.position);
+            _lineRenderer.SetPosition(1, _firePos2.position);
 
-        _crosshair.SetActive(true);
-        _crosshair.transform.position=Camera.main.ScreenToWorldPoint(Input.mousePosition)+Vector3.forward*10;
+            _crosshair.SetActive(true);
+            _crosshair.transform.position = Camera.main.ScreenToWorldPoint(Input.mousePosition) + Vector3.forward * 10;
+        }          
     }
     void Shoot()
     {
-        _lineRenderer.enabled = false;
+        if (!UI.Instance.canTouch)
+        {
+            _lineRenderer.enabled = false;
 
-        GameObject g = Instantiate(_bullet, _firePos1.position, Quaternion.identity);
-        if (transform.localScale.x > 0)
-            g.GetComponent<Rigidbody2D>().AddForce(_firePos1.right * _bulletSpeed, ForceMode2D.Impulse);
-        else
-            g.GetComponent<Rigidbody2D>().AddForce(-_firePos1.right * _bulletSpeed, ForceMode2D.Impulse);
+            GameObject g = Instantiate(_bullet, _firePos1.position, Quaternion.identity);
+            if (transform.localScale.x > 0)
+                g.GetComponent<Rigidbody2D>().AddForce(_firePos1.right * _bulletSpeed, ForceMode2D.Impulse);
+            else
+                g.GetComponent<Rigidbody2D>().AddForce(-_firePos1.right * _bulletSpeed, ForceMode2D.Impulse);
 
-        Destroy(g, 2);
+            Destroy(g, 2);
 
-        ammo--;
-        FindObjectOfType<GameManager>().BulletImage();
-        _crosshair.SetActive(false);
-
+            ammo--;
+            FindObjectOfType<GameManager>().BulletImage();
+            _crosshair.SetActive(false);
+            SoundManager.Instance.PlaySoundFX(_gunShot, .3f);
+        }   
     }
 
     bool IsMouseOnButton()

@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    
+   [SerializeField] private AudioClip _death;
 
     void Death()
     {
         gameObject.tag = "Untagged";
         FindObjectOfType<GameManager>().EnemyCountCheck();
+        SoundManager.Instance.PlaySoundFX(_death, .7f);
         foreach (Transform obj in transform)
         {
             obj.GetComponent<Rigidbody2D>().gravityScale = 1;

@@ -126,6 +126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   exlopeObj: {fileID: 6309738324080606011, guid: 7cd171da85a073243a09a83b4929c774, type: 3}
+  _tntHit: {fileID: 8300000, guid: a44884d105a3b784182ec41f327b0128, type: 3}
 --- !u!50 &204434633
 Rigidbody2D:
   serializedVersion: 4

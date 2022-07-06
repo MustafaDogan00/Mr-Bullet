@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     public int goldenBullets = 1;
 
     public GameObject blackBullet, goldenBullet;
+    [SerializeField] private GameObject _levelsButton;
 
 
     private void Awake()
@@ -68,15 +69,23 @@ public class GameManager : MonoBehaviour
 
     public void NextLevel()
     {
-        //SceneManager.LoadScene()
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        UI.Instance.canTouch=false;
     }
     public void Restart()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        UI.Instance.canTouch = false;
     }
     public void Quit()
     {
-        //SceneManager.LoadScene();
+        SceneManager.LoadScene(0);
+        UI.Instance.canTouch = false;
+    }
+
+    public void Levels()
+    {
+       _levelsButton.gameObject.SetActive(true);
     }
 
 }

@@ -22,6 +22,8 @@ TagManager:
   - GoldenStar
   - GoldenStar2
   - GoldenStar3
+  - LevelCollider
+  - PlayCollider
   layers:
   - Default
   - TransparentFX
