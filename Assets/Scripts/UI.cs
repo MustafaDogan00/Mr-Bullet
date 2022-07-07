@@ -37,6 +37,7 @@ public class UI : MonoBehaviour
 
     public void WinScreen()
     {
+      FindObjectOfType<GameManager>().canTouch=true;    
         _winPanel.SetActive(true);
         if (_gameManager.blackBullets>=startBB)
         {

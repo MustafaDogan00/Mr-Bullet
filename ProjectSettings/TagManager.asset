@@ -24,6 +24,7 @@ TagManager:
   - GoldenStar3
   - LevelCollider
   - PlayCollider
+  - Wheel
   layers:
   - Default
   - TransparentFX

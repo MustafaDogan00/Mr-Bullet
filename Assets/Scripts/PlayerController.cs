@@ -47,9 +47,12 @@ public class PlayerController : MonoBehaviour
                 if (ammo > 0)
                     Shoot();
                 else
+                {
                     _lineRenderer.enabled = false;
+                }                
             }
-        }      
+        }
+        print(FindObjectOfType<GameManager>().canTouch);
     }
 
     void Aim()
