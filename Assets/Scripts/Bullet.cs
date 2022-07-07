@@ -28,7 +28,7 @@ public class Bullet : MonoBehaviour
 
         if (other.gameObject.tag=="LevelCollider")
         {
-            FindObjectOfType<GameManager>().Levels();
+            FindObjectOfType<MainMenuButtons>().Levels();
         }
 
         if (other.gameObject.tag=="PlayCollider")

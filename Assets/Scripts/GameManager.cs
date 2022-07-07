@@ -11,13 +11,17 @@ public class GameManager : MonoBehaviour
 
     public int blackBullets = 3;
     public int goldenBullets = 1;
+    private int levelNumber;
 
     public GameObject blackBullet, goldenBullet;
-    [SerializeField] private GameObject _levelsButton;
+
+    public bool canTouch;
 
 
     private void Awake()
-    {     
+    {
+        levelNumber = PlayerPrefs.GetInt("Level", 1);
+
         FindObjectOfType<PlayerController>().ammo=blackBullets+goldenBullets;
         for (int i = 0; i < blackBullets; i++)
         {
@@ -49,7 +53,12 @@ public class GameManager : MonoBehaviour
         _enemyCount = GameObject.FindGameObjectsWithTag("Enemy").Length;
         if (_enemyCount <=0)
         {
+            canTouch = true;
             UI.Instance.WinScreen();
+            if (levelNumber == SceneManager.GetActiveScene().buildIndex)
+            {
+                PlayerPrefs.SetInt("Level", levelNumber + 1);
+            }          
         }
     }
 
@@ -69,23 +78,20 @@ public class GameManager : MonoBehaviour
 
     public void NextLevel()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
-        UI.Instance.canTouch=false;
+        SceneManager.LoadScene(PlayerPrefs.GetInt("Level", 1));
+       canTouch=false;
     }
     public void Restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        UI.Instance.canTouch = false;
+        canTouch = false;
     }
     public void Quit()
     {
         SceneManager.LoadScene(0);
-        UI.Instance.canTouch = false;
+        canTouch = false;
     }
 
-    public void Levels()
-    {
-       _levelsButton.gameObject.SetActive(true);
-    }
+    
 
 }

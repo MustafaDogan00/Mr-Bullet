@@ -54,7 +54,7 @@ public class PlayerController : MonoBehaviour
 
     void Aim()
     {
-        if (!UI.Instance.canTouch)
+        if (!FindObjectOfType<GameManager>().canTouch)
         {
             Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - _handPos.position;
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + 90;
@@ -71,7 +71,7 @@ public class PlayerController : MonoBehaviour
     }
     void Shoot()
     {
-        if (!UI.Instance.canTouch)
+        if (!FindObjectOfType<GameManager>().canTouch)
         {
             _lineRenderer.enabled = false;
 

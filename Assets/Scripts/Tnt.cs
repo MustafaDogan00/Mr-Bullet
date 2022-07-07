@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Tnt : MonoBehaviour
 {
@@ -14,6 +15,11 @@ public class Tnt : MonoBehaviour
     void Explode()
     {
         Vector2 expPos=transform.position;
+        if (SceneManager.GetActiveScene().buildIndex == 8)
+            _radius = 2;
+        else
+            _radius = 1;
+
         Collider2D[] colls=Physics2D.OverlapCircleAll(expPos, _radius);
         foreach(Collider2D hit in colls)
         {
