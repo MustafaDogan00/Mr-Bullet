@@ -17,7 +17,7 @@ public class SoundManager : MonoBehaviour
   
    public void PlaySoundFX(AudioClip clip,float volume)
     {
-        if (!FindObjectOfType<GameManager>().canTouch)
+        if (!FindObjectOfType<GameManager>().gameOver)
         {
             _audioSource.PlayOneShot(clip, volume);
         }

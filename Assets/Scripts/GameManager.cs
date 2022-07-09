@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
+        gameOver=false;
         levelNumber = PlayerPrefs.GetInt("Level", 1);
 
         FindObjectOfType<PlayerController>().ammo=blackBullets+goldenBullets;
@@ -41,8 +42,7 @@ public class GameManager : MonoBehaviour
     {
         if (!gameOver && FindObjectOfType<PlayerController>().ammo<=0 && _enemyCount>0 && 
             GameObject.FindGameObjectsWithTag("Bullet").Length<=0)
-        {
-            gameOver = true;
+        {        
             UI.Instance.GameOverPanel();
         }
     }
@@ -53,7 +53,7 @@ public class GameManager : MonoBehaviour
         _enemyCount = GameObject.FindGameObjectsWithTag("Enemy").Length;
         if (_enemyCount <=0)
         {
-            canTouch = true;
+            gameOver = true;
             UI.Instance.WinScreen();
             if (levelNumber == SceneManager.GetActiveScene().buildIndex)
             {
@@ -77,19 +77,22 @@ public class GameManager : MonoBehaviour
     }
 
     public void NextLevel()
-    {
+    {      
         SceneManager.LoadScene(PlayerPrefs.GetInt("Level", 1));
-       canTouch=false;
+
     }
     public void Restart()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        canTouch = false;
+        canTouch = true;
+        gameOver = true;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);    
+       
     }
     public void Quit()
     {
-        SceneManager.LoadScene(0);
-        canTouch = false;
+        canTouch = true;
+        gameOver = true;
+        SceneManager.LoadScene(0);       
     }
 
     

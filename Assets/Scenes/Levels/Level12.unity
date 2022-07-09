@@ -248,7 +248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93d4f995795fd2d45b519ea753a32b4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioClip: {fileID: 8300000, guid: 1d9bcb251dcb1974295f01c20b81ca40, type: 3}
 --- !u!1 &244295050
 GameObject:
   m_ObjectHideFlags: 0
@@ -671,7 +670,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93d4f995795fd2d45b519ea753a32b4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioClip: {fileID: 8300000, guid: 1d9bcb251dcb1974295f01c20b81ca40, type: 3}
 --- !u!1 &645794328 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1069831212026011746, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
@@ -694,7 +692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93d4f995795fd2d45b519ea753a32b4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioClip: {fileID: 8300000, guid: 1d9bcb251dcb1974295f01c20b81ca40, type: 3}
 --- !u!1 &764998977
 GameObject:
   m_ObjectHideFlags: 0
@@ -1044,7 +1041,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2137760048, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
       propertyPath: m_GravityScale
-      value: -0.5
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 1069831212026011745, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
       propertyPath: m_RootOrder
@@ -1403,7 +1400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2137760048, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
       propertyPath: m_GravityScale
-      value: -0.5
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 1069831211262631688, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -1650,7 +1647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2137760048, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
       propertyPath: m_GravityScale
-      value: -0.5
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 1069831211262631688, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
       propertyPath: m_ConnectedAnchor.x
@@ -1743,7 +1740,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93d4f995795fd2d45b519ea753a32b4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioClip: {fileID: 8300000, guid: 1d9bcb251dcb1974295f01c20b81ca40, type: 3}
 --- !u!4 &1966882367 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1069831212026011745, guid: 854e52d1b7ad5254796efbaecdc03c04, type: 3}
@@ -1761,7 +1757,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93d4f995795fd2d45b519ea753a32b4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _audioClip: {fileID: 8300000, guid: 1d9bcb251dcb1974295f01c20b81ca40, type: 3}
 --- !u!1 &1977078778
 GameObject:
   m_ObjectHideFlags: 0

@@ -520,7 +520,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameOver: 0
   blackBullets: 3
-  goldenBullets: 1
+  goldenBullets: 3
   blackBullet: {fileID: 4825514643226852795, guid: f181024e7ed8528478f4155a4a23a83a, type: 3}
   goldenBullet: {fileID: 8845752994332658828, guid: 6104c64ac8cfca34e8409d21a4027892, type: 3}
   canTouch: 0

@@ -21,6 +21,8 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private AudioClip _gunShot;
 
+    private bool _mousePos;
+
 
     void Start()
     {
@@ -35,7 +37,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if (!IsMouseOnButton())
+        if (!IsMouseOnButton() && !FindObjectOfType<GameManager>().canTouch)
         {
             if (Input.GetMouseButton(0))
             {
@@ -51,13 +53,18 @@ public class PlayerController : MonoBehaviour
                     _lineRenderer.enabled = false;
                 }                
             }
+            print(FindObjectOfType<GameManager>().canTouch);
         }
-        print(FindObjectOfType<GameManager>().canTouch);
+
+        //if (Input.mousePosition.y>=450)        
+        //    _mousePos=true;
+        //else
+        //    _mousePos=false;    
     }
 
     void Aim()
     {
-        if (!FindObjectOfType<GameManager>().canTouch)
+        if (!FindObjectOfType<GameManager>().gameOver /*&& !MousePos()*/)
         {
             Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - _handPos.position;
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + 90;
@@ -74,7 +81,7 @@ public class PlayerController : MonoBehaviour
     }
     void Shoot()
     {
-        if (!FindObjectOfType<GameManager>().canTouch)
+        if (!FindObjectOfType<GameManager>().gameOver/* && !MousePos()*/)
         {
             _lineRenderer.enabled = false;
 
@@ -93,11 +100,21 @@ public class PlayerController : MonoBehaviour
         }   
     }
 
+
+
     bool IsMouseOnButton()
     {
         return EventSystem.current.IsPointerOverGameObject();
     }
 
+    //bool MousePos()
+    //{
+    //    if (Input.mousePosition.y > 470)
+    //        _mousePos = true;
+    //    else
+    //        _mousePos = false;
 
-  }
+    //    return _mousePos;
+    //}
+}
 
